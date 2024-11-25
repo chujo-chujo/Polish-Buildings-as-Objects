@@ -1,0 +1,24 @@
++-----------------------------+
+| POLISH BUILDINGS AS OBJECTS |
++-----------------------------+
+
+
+ === Changelog ===
+
+
+v2.0 (2024-11-26)
+->  Completely reworked the codebase
+->  Added all 13 missing snow sprites
+->  Added a parameter for cc-recolouring
+->  Added buildings from "Polish Buildings Set 1.4.0"
+->  New sprite for Warsaw Spire
+->  Touched up many of the existing sprites
+
+
+v1.1 (2023-08-29)
+->  Added parameters "Only in Scenario Editor" and "Irremovable objects"
+
+
+v1 (2023-08-20)
+->  Initial release
+->  Used sprites from "Polish Building Set 0.1"
