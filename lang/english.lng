@@ -1,0 +1,62 @@
+##grflangid 0x01
+
+# General GRF strings
+STR_GRF_NAME:Polish Buildings as Objects 2.0
+STR_GRF_DESCRIPTION:{}{ORANGE}Polish buildings made into placeable objects.{}All objects are snow-aware; some of them feature cc-recolour variants.{}See Changelog for a complete list of changes in v2.0. See Readme for details on licensing.{}{}{}{SILVER}Original graphics: {YELLOW}Sojita, TadeuszD, openttd-polska.pl{}{SILVER}Minor additions and coding: {YELLOW}chujo{}{}{}{LTBLUE}November 26, 2024
+STR_GRF_URL:https://www.tt-forums.net/viewtopic.php?p=1264049&sid=f0c835910d57faed3b29277b37f8f078#p1264049
+STR_OPENTTD_VERSION:1.2.0 (r22723)
+
+#####################################################
+
+# Parameters
+STR_PAR01_NAME:Only in Scenario Editor
+STR_PAR01_DESC:{GOLD}Objects can be placed only when creating a scenario.
+STR_PAR02_NAME:Irremovable objects
+STR_PAR02_DESC:{GOLD}Built objects can be removed only by using Magic bulldozer.
+STR_PAR_recolour_NAME:Use only the player's company colour to recolour objects
+STR_PAR_recolour_DESC:{GOLD}Several buildings in this set have elements that are, by default, recoloured using a random company colour.{}By turning on this parameter, you can choose to use only the player's company colour.
+
+# Main category strings
+STR_NAME:Polish Buildings as Objects
+
+# Objects in categories
+STR_skyscrapers:Skyscrapers
+STR_office_blocks:Office blocks
+STR_hotels:Hotels
+STR_government_buildings:Government buildings
+STR_town_halls:Town halls
+STR_castle_churches:Castle, churches
+STR_small_churches:Small churches
+STR_historic_houses:Historic houses
+STR_downtown_houses:Downtown houses
+STR_high_rises:High-rises
+STR_blocks_of_flats:Blocks of flats
+STR_apartments:Apartments
+STR_flats:Flats
+STR_modern_apartments:Modern apartments
+STR_modern_family_houses:Modern family houses
+STR_family_houses:Family houses
+STR_village_buildings:Village buildings
+STR_schools:Schools
+STR_stadiums:Stadiums
+STR_shopping:Shopping
+STR_fire_stations:Fire stations
+STR_theaters_and_cinemas:Theaters and cinemas
+STR_local_services:Local services
+STR_statues:Statues
+STR_parks:Parks
+STR_fences:Fences
+STR_construction:Construction
+
+# Description of objects
+STR_skyscrapers_Spire:{BLACK}Warsaw Spire
+STR_CC:{BLACK}Company-coloured
+STR_LEFT:{BLACK}Left
+STR_MIDDLE:{BLACK}Middle
+STR_RIGHT:{BLACK}Right
+STR_grocery_store:{BLACK}Grocery store
+STR_mcdonalds:{BLACK}McDonald's
+STR_post_office:{BLACK}Post office, Krakow
+STR_police:{BLACK}Police station
+STR_kijow_cinema:{BLACK}Kijów cinema, Krakow
+STR_2x:{GREEN}2x
