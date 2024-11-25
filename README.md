@@ -1,4 +1,4 @@
-![Title.](/_readme/ttrso.png)
+![Title.](/_readme/title.png)
 ## About
 
 This NewGRF contains objects made from the sprites of the beautiful "Polish Building Set 0.1", supplemented by several buildings from "Polish Buildings Set 1.4.0" and by some newly drawn sprites.
@@ -10,7 +10,7 @@ Additionally, some objects feature elements that are recoloured either by a rand
 
 ## Parameters
 
-![Parameters.](/_readme/parameters.PNG)
+![Parameters.](/_readme/parameters.png)
 
 * **Only in Scenario Editor**<br>
    = Objects can be placed only when creating a scenario.
