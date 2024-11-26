@@ -5008,11 +5008,11 @@ spriteset(spriteset_37_shopping_VAR01_T2_S, "gfx/plbo.png") { template_2x2_T2(2,
 spriteset(spriteset_37_shopping_VAR01_T3_S, "gfx/plbo.png") { template_2x2_T3(2,370) }
 
 spriteset(spriteset_37_shopping_VAR02_T1,   "gfx/plbo.png") { template_2x2_T1(3,370) }
-spriteset(spriteset_37_shopping_VAR02_T2,   "gfx/plbo.png") { [(3*140-140)+32, 370*54-540, 32,  256,  1, -225] }
-spriteset(spriteset_37_shopping_VAR02_T3,   "gfx/plbo.png") { [(3*140-140)+64, 370*54-540, 64, 240, -31, -209] }
+spriteset(spriteset_37_shopping_VAR02_T2,   "gfx/plbo.png") { [(3*140-140)+32, 370*54-540, 32, 256, -31, -225] }
+spriteset(spriteset_37_shopping_VAR02_T3,   "gfx/plbo.png") { [(3*140-140)+64, 370*54-540, 64, 256, -31, -209] }
 spriteset(spriteset_37_shopping_VAR02_T1_S, "gfx/plbo.png") { template_2x2_T1(4,370) }
-spriteset(spriteset_37_shopping_VAR02_T2_S, "gfx/plbo.png") { [(4*140-140)+32, 370*54-540, 32,  256,  1, -225] }
-spriteset(spriteset_37_shopping_VAR02_T3_S, "gfx/plbo.png") { [(4*140-140)+64, 370*54-540, 64, 240, -31, -209] }
+spriteset(spriteset_37_shopping_VAR02_T2_S, "gfx/plbo.png") { [(4*140-140)+32, 370*54-540, 32, 256, -31, -225] }
+spriteset(spriteset_37_shopping_VAR02_T3_S, "gfx/plbo.png") { [(4*140-140)+64, 370*54-540, 64, 256, -31, -209] }
 
 spritelayout layout_37_shopping_VAR01_T1 {
     ground   { sprite: spriteset_GRN_CONCRETE; }
